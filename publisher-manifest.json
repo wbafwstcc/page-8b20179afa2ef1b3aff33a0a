@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f0743052b32d1f7b5b428262",
+  "owner": "wbafwstcc",
+  "repo": "page-8b20179afa2ef1b3aff33a0a",
+  "title": "吉吉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8b20179afa2ef1b3aff33a0a",
+      "a": "吉吉云",
+      "b": "2027最新官网",
+      "entity": "吉吉云",
+      "brand": "吉吉云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c1071d595378220f427c8fa5b2de43b8a84e96bb247454dde766e5dbd299a269",
+      "content": {
+        "primary_entity": "吉吉云",
+        "keyword1": "吉吉云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，查阅对应配置文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，开始配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB至1000GB流量，支持3台至20台设备同时在线。旗舰版含IPLC专线游戏加速优化与7x24优先工单支持，团队版支持企业定制路由。按需选择套餐后，可查看对应客户端的订阅配置说明。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，按用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可，年付基础版¥150，旗舰版¥350，团队版¥850。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选择套餐到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "吉吉云提供基础版、旗舰版与团队版三档套餐，月付价格从¥15到¥85，年付方案更为经济。旗舰版适合追求流媒体与游戏加速体验的用户，团队版满足多设备与定制路由需求。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付方案比月付更节省",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备，团队版面向多设备与定制需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "核对所选套餐的流量额度、设备上限与线路类型是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "打开对应客户端的订阅配置文档，按说明导入订阅并完成连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "吉吉云套餐与客户端配置",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合手机加电脑的轻度使用；旗舰版每月 300GB、支持 5 台设备，适合多设备切换与流媒体观看；团队版每月 1000GB、支持 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_2": "登录客户端后进入订阅设置，粘贴购买后获取的订阅地址，手动更新一次即可拉取节点列表。不同客户端菜单名称略有差异，可参考对应客户端的配置说明文档。",
+          "AI_FAQ_ANSWER_3": "同一时间在线的设备数量由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量会导致部分设备无法连接，可在客户端断开不用的设备后再连接新设备。",
+          "AI_FAQ_ANSWER_4": "支持。年付方案按十个月价格计算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月支付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "流媒体解锁取决于节点与所在地区，旗舰版与团队版覆盖更全的原生流媒体节点。如遇特定平台无法播放，可在客户端切换其他节点后重试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超了怎么办？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁效果如何？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nessbytejc.com",
+    "host": "nessbytejc.com"
+  },
+  "file_hashes": {
+    "index.html": "ebfc7d04a02ab153d6f3693e57c9b7c2ca23cf33f665d35cf215efe5467d6d3a",
+    "sitemap.xml": "8f78b06c223f1835b5d7e4c31faa246d9c95866bfa1e36107ca25b83430c404b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "35ad9200fd733a6cd6c955f919bc34ca485ac3c5fd973a43ffe18a266d9cffd1",
+    "robots.txt": "7d3b4c119f9873eb46b06d9ee8138696d8c1d3b7140169741a20ff8385ffe71c",
+    "84ccd02c5a03faf73dd3a842af54ce80.txt": "d9610666e9dfed91ed294f182248e89714cf293f2ca4066086b1aab854a167b7"
+  },
+  "revision": "affadd358ccc07e7d94dc4e27f510f4ba40ce0bb8f29a2e1d49c14755285525f"
+}
